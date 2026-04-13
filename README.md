@@ -5,4 +5,4 @@ Key feature:
   1. HTML
   2. Inline CSS
 
-Author - Shoaib Shirzad
+Developed by:Shoaib Shirzad
